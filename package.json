@@ -1,6 +1,19 @@
 {
-  "name": "FRIDASampleAgentTS",
+  "name": "fridasampleagentts",
   "version": "1.0.0",
-  "dependencies": {
-  }
+  "description": "An example with step by step instructions on how to write a FRIDA agent in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRUHItsABunny/FRIDASampleAgentTS.git"
+  },
+  "author": "BRUHItsABunny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BRUHItsABunny/FRIDASampleAgentTS/issues"
+  },
+  "homepage": "https://github.com/BRUHItsABunny/FRIDASampleAgentTS#readme"
 }
