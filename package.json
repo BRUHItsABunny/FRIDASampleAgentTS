@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BRUHItsABunny/FRIDASampleAgentTS/issues"
   },
-  "homepage": "https://github.com/BRUHItsABunny/FRIDASampleAgentTS#readme"
+  "homepage": "https://github.com/BRUHItsABunny/FRIDASampleAgentTS#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
