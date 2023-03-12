@@ -25,7 +25,7 @@ The screenshot below will show you what the settings are that I went with to get
 
 * Language: JavaScript
 
-![Intellij Settings]()
+![Intellij Settings](https://raw.githubusercontent.com/BRUHItsABunny/FRIDASampleAgentTS/master/_resources/media/1_create_project.png)
 
 ### 2. Initialize a NodeJS project
 Run the following command in your terminal:
@@ -35,7 +35,7 @@ npm init
 
 It will ask you for more information in the terminal, fill it in as needed:
 
-![npm init]()
+![npm init](https://raw.githubusercontent.com/BRUHItsABunny/FRIDASampleAgentTS/master/_resources/media/2_npm_init.png)
 
 ### 3. Install TypeScript
 Run the following command in your terminal:
@@ -144,9 +144,11 @@ Run the following command in your terminal:
 adb devices
 ```
 
+If it says `unauthorized` you will need to authorize the ADB connection on the phone/emulator.
+
 It should look like this:
 
-![ADB devices]()
+![ADB devices](https://raw.githubusercontent.com/BRUHItsABunny/FRIDASampleAgentTS/master/_resources/media/10_adb_devices.png)
 
 ### 11. Compile the code
 Run the following command in your terminal:
@@ -171,4 +173,4 @@ Run the following command in your terminal:
 
 Finally, you should be left with a terminal that looks like this:
 
-![frida run]()
+![frida run](https://raw.githubusercontent.com/BRUHItsABunny/FRIDASampleAgentTS/master/_resources/media/12_frida_run.png)
