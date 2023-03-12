@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/BRUHItsABunny/FRIDASampleAgentTS#readme",
   "devDependencies": {
+    "@types/frida-gum": "^18.3.1",
+    "@types/node": "^18.15.0",
+    "frida-compile": "^16.1.8",
     "typescript": "^4.9.5"
   }
 }
